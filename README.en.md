@@ -1,6 +1,6 @@
 # PANDAO Delivery Pack
 
-[中文](README.md) · [Use in your browser](https://tianchaodaxing-beep.github.io/pandao-delivery-pack/?lang=en) · [Download the local tool](https://github.com/tianchaodaxing-beep/pandao-delivery-pack/releases/tag/v0.1.0)
+[中文](README.md) · [Use in your browser](https://tianchaodaxing-beep.github.io/pandao-delivery-pack/?lang=en) · [Download the local tool](https://github.com/tianchaodaxing-beep/pandao-delivery-pack/releases/tag/v0.1.1)
 
 A folder contains designs, guides and images for dozens of projects, mixed with old versions and duplicate copies. Give this tool a delivery recipe. It selects the latest version for each item slot, lists missing files and conflicting versions, and builds a separate ZIP for every complete project.
 
@@ -67,3 +67,7 @@ Each project ZIP contains the original files and `inventory.json`. The overall r
 ## License
 
 MIT. Commercial use is allowed; preserve the license when distributing.
+
+## Contact
+
+Project enquiries and collaboration: [tianchaodaxing@gmail.com](mailto:tianchaodaxing@gmail.com)

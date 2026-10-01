@@ -1,6 +1,6 @@
 # PANDAO 交付包自动组装
 
-[English](README.en.md) · [在线使用](https://tianchaodaxing-beep.github.io/pandao-delivery-pack/?lang=zh) · [下载本机版](https://github.com/tianchaodaxing-beep/pandao-delivery-pack/releases/tag/v0.1.0)
+[English](README.en.md) · [在线使用](https://tianchaodaxing-beep.github.io/pandao-delivery-pack/?lang=zh) · [下载本机版](https://github.com/tianchaodaxing-beep/pandao-delivery-pack/releases/tag/v0.1.1)
 
 一个文件夹里有几十个项目的设计文件、说明、配图，还有旧版本和重复副本。给出交付清单，这个工具会自动挑选每个资料位置的最新版本、检查缺件和同版本冲突，再为资料齐全的项目生成 ZIP 交付包。
 
@@ -67,3 +67,7 @@ P001_image_back_v1.svg
 ## 许可证
 
 MIT。可以商用；分发时保留许可证。
+
+## Contact
+
+Project enquiries and collaboration: [tianchaodaxing@gmail.com](mailto:tianchaodaxing@gmail.com)
